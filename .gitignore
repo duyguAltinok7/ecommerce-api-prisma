@@ -1,0 +1,22 @@
+# Environment
+.env
+.env.*.local
+
+# Dependencies
+node_modules/
+
+# Prisma generated client
+/src/generated/prisma
+
+# Logs
+npm-debug.log*
+*.log
+
+# OS / Editor
+.DS_Store
+.vscode/
+
+# AI tool config klasörleri 
+.claude/
+.windsurf/
+.agents/
